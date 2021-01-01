@@ -19,13 +19,13 @@ No one is maintaining this repository.
 ### Screenshot
 
 <p align="center">
-  <img src="https://github.com/shubh2710/Gym-Management/blob/master/screen/1.png" alt="Screenshot"  height="200"/>
+  <img src="https://github.com/shubh2710/Gym-Management/blob/main/screen/1.PNG" alt="Screenshot"  height="200"/>
 </p>
 <p align="center">
-  <img src="https://github.com/shubh2710/Gym-Management/blob/master/screen/2.png" alt="Screenshot"  height="200" />
+  <img src="https://github.com/shubh2710/Gym-Management/blob/main/screen/2.PNG" alt="Screenshot"  height="200" />
 </p>
 <p align="center">
-  <img src="https://github.com/shubh2710/Gym-Management/blob/master/screen/3.png" alt="Screenshot"  height="200"/>
+  <img src="https://github.com/shubh2710/Gym-Management/blob/main/screen/3.PNG" alt="Screenshot"  height="200"/>
 </p>
 
 
