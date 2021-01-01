@@ -13,7 +13,7 @@ Java based Desktop application.
 
 ### Contributions
 
-No one is maintaining for this repository.
+No one is maintaining this repository.
 
 
 ### Screenshot
